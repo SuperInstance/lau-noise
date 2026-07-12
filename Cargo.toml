@@ -1,4 +1,5 @@
 [package]
+license = "MIT"
 name = "lau-noise"
 version = "0.1.0"
 edition = "2021"
